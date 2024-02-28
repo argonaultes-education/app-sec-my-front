@@ -1,0 +1,14 @@
+
+
+.authenticated {
+    display: block;
+    background-color: yellowgreen;
+}
+.guest {
+    display: none;
+    background-color: red;
+}
+
+.tohide {
+    display: none;
+}
